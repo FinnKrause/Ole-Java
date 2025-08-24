@@ -1,0 +1,157 @@
+FragenMenge: 38
+
+0:
+ - "Wie heißt das aktuell höchste Hochhaus der Welt?"
+ - "Burj Khalifa"
+
+1:
+ - "Wie heißt der längste Fluss der Welt?"
+ - "Nil"
+
+2:
+ - "Wann entdeckte kolumbus Amerika? (Jahr)"
+ - "1492"
+
+3:
+ - "Was ist das leichteste bisher entdeckte Element? (Deutscher-Name ausgeschrieben)"
+ - "Wasserstoff"
+
+4:
+ - "In welchem Jahr wurde der Vorgänger von BRD und DDR, das \"Deutsche Reich\", gegründet? (Jahr)"
+ - "1871"
+
+5:
+ - "Wie hieß der erste Bundeskanzler der Bundesrepublik Deutschland, der im Jahr 1949 ins Amt gewählt wurde?"
+ - "Konrad Adenauer"
+
+6:
+ - "Wie oft wurde die deutsche Nationalmannschaft insgesamt Fußball-Weltmeister? (Zahl)"
+ - "4"
+
+7:
+ - "Wie oft wurde die deutsche Nationalmannschaft insgesamt Fußball-Europameister?(Zahl)"
+ - "3"
+
+8:
+ - "Wie viele Staaten grenzen an Deutschland? (Zahl)"
+ - "9"
+
+9:
+ - "Wie heißt der längste Fluss Deutschlands?"
+ - "Rhein"
+
+10:
+ - "Wie lauten die drei Nachkommastellen der Zahl Pi?"
+ - "141"
+
+11:
+ - "Wie heißt die Hauptstadt von Sachsen?"
+ - "Dresden"
+
+12:
+ - "Welches Bundesland ist flächenmäßig das größte?"
+ - "Bayern"
+
+13:
+ - "Welche Stadt hat nach Berlin die meisten Einwohner in Deutschland?"
+ - "Hamburg"
+
+14:
+ - "Wofür steht die Abkürzung dmx?"
+ - "Digital MultipleX"
+
+15:
+ - "Wie heißt der japanische Leitindex?"
+ - "Nikkei225"
+
+16:
+ - "Wofür steht die Abkürzung beim Sender RTL?"
+ - "Radio Télévision Luxembourg"
+
+17:
+ - "Mit welcher Währung zahlt man in Albanien?"
+ - "Lek"
+
+18:
+ - "Wenn es in Berlin im Sommer Mitternacht ist, dann ist es in Bangkok [(hh:mm) 24h Format]"
+ - "05:00"
+
+19: 
+ - "Der Autor Michael Crichton schrieb \"Jurassic Park\" und die Vorlage zur berühmten amerikanischen TV-Serie..."
+ - "Emergency Room"
+
+20: 
+ - "Wo befindet sich der Hauptsitz von Coca-Cola?"
+ - "Atlanta"
+
+21:
+ - "Wie viele Spieler sollte ein Fußballteam auf dem Feld haben?"
+ - "11"
+
+22: 
+ - "Was ist 3 + 4 * 5? (Zahl)"
+ - "23"
+
+23: 
+ - "Was ist 20 + 6 : 2 - 4 * 3? (Zahl)"
+ - "11"
+
+24:
+ - "Was ist die Molekülformel von Kohlensäure? (z.B. H2O)"
+ - "H2CO3"
+
+25:
+ - "Wann war die letzte Sonnenfinsternis?"
+ - "1999"
+
+26:
+ - "Wann wurde Coca-Cola erfunden? (Jahr)"
+ - "1892"
+
+27:
+ - "Wieviel Zucker enthält 1 Liter Cola light? (Angabe in Gramm und als Zahl)"
+ - "0"
+
+28:
+ - "Wie viele Liter Bier werden pro Kopf jährlich getrunken? (Zahl)"
+ - "100"
+
+29:
+ - "Mit wie vielen O's wir der Spitzname \"Mosi\" geschrieben? (Zahl)"
+ - "5"
+
+30:
+ - "Beende folgenden Satz: Wiederschauen und..."
+ - "reingehauen"
+
+31: 
+ - "Was ist der höchste Steuersatz in Deutschland? (Angabe in Zahl und Prozent z.B. 20 = 20%)"
+ - "42"
+
+32:
+ - "Was ist der richtige name von dem Drachenlord?"
+ - "Rainer Winkler"
+
+33:
+ - "In welchem Jahr war die Longboardtour?"
+ - "2014"
+
+34:
+ - "In welchem Monat hat Christoph Geburtstag?"
+ - "Januar"
+
+35:
+ - "Wer ist der beste Anwalt den wir alle kennen? (Voller Name ohne Zweiter Vorname)"
+ - "Leopold Protzen"
+
+36:
+ - "Für Nerds haha: Von wem ist das Javascript Framework \"React\"? (Firmenname)"
+ - "Facebook"
+
+37:
+ - "Was ist 5 × 8 ÷ ( 4 × 2 ) - 9 ÷ 0.5? (Zahl)"
+ - "-13"
+
+28:
+ - "Wie viele Farbstoffe gibt es in Minecraft insgesamt?"
+ - "16"
